@@ -1,0 +1,13 @@
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\bin\Debug\netcoreapp3.1\LeetCode1672.exe
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\bin\Debug\netcoreapp3.1\LeetCode1672.deps.json
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\bin\Debug\netcoreapp3.1\LeetCode1672.runtimeconfig.json
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\bin\Debug\netcoreapp3.1\LeetCode1672.runtimeconfig.dev.json
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\bin\Debug\netcoreapp3.1\LeetCode1672.dll
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\bin\Debug\netcoreapp3.1\LeetCode1672.pdb
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\obj\Debug\netcoreapp3.1\LeetCode1672.csprojAssemblyReference.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\obj\Debug\netcoreapp3.1\LeetCode1672.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\obj\Debug\netcoreapp3.1\LeetCode1672.AssemblyInfo.cs
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\obj\Debug\netcoreapp3.1\LeetCode1672.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\obj\Debug\netcoreapp3.1\LeetCode1672.dll
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\obj\Debug\netcoreapp3.1\LeetCode1672.pdb
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\LeetCode1672\LeetCode1672\obj\Debug\netcoreapp3.1\LeetCode1672.genruntimeconfig.cache
